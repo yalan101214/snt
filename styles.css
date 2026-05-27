@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  color: rgb(247, 253, 253);
+  font-size: 400%;
+  font-family: Snell Roundhand, cursive;
+}
+body {
+  background-image: url("images/accueil.jpg");
+}
+.image .center-button {
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  border-radius: 12px;
+  padding: 10px 24px;
+  font-size: 16px;
+  background-color: #cbfafc;
+  border: 2px solid #ecf1f1;
+  color: #58f0f0;
+}
+.image img {
+  height: auto;
+  width: 100%;
+  margin-top: 0%;
+}

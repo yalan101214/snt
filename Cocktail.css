@@ -1,0 +1,111 @@
+.Cocktail {
+  position: absolute;
+  width: 15%;
+  height: 38%;
+  padding: 10px 24px;
+  font-size: 16px;
+  border-radius: 12px;
+  color: white;
+}
+.BlueLagoon {
+  background-image: url("images/BlueLagoon.png");
+  background-size: cover;
+  background-position: center;
+  top: 12%;
+  left: 3%;
+}
+.Daiquiri {
+  background-image: url("images/Daiquiri.png");
+  background-size: cover;
+  background-position: center;
+  top: 12%;
+  left: 22%;
+}
+.Limoncello {
+  background-image: url("images/Limoncello.png");
+  background-size: cover;
+  background-position: center;
+  top: 12%;
+  left: 41%;
+}
+.Margarita {
+  background-image: url("images/Margarita.jpg");
+  background-size: cover;
+  background-position: center;
+  top: 12%;
+  left: 60%;
+}
+.Mojito {
+  background-image: url("images/Mojito.jpg");
+  background-size: cover;
+  background-position: center;
+  top: 12%;
+  left: 79%;
+  color: black;
+}
+.Paloma {
+  background-image: url("images/Paloma.png");
+  background-size: cover;
+  background-position: center;
+  top: 55%;
+  left: 3%;
+}
+.PassionTropical {
+  background-image: url("images/PassionTropical.png");
+  background-size: cover;
+  background-position: center;
+  top: 55%;
+  left: 22%;
+}
+.PinaColada {
+  background-image: url("images/PinaColada.png");
+  background-size: cover;
+  background-position: center;
+  top: 55%;
+  left: 41%;
+}
+.SexOnTheBeach {
+  background-image: url("images/SexOnTheBeach.png");
+  background-size: cover;
+  background-position: center;
+  top: 55%;
+  left: 60%;
+}
+.Spritz {
+  background-image: url("images/Spritz.png");
+  background-size: cover;
+  background-position: center;
+  top: 55%;
+  left: 79%;
+  color: black;
+}
+h1 {
+  text-align: center;
+  font-family: Snell Roundhand, cursive;
+  font-size: 200%;
+}
+.Accueil {
+  position: absolute;
+  top: 4%;
+  left: 3%;
+  border-radius: 12px;
+  padding: 10px 24px;
+  font-size: 16px;
+  background-color: #b8e3e5;
+  border: 2px solid #ecf1f1;
+  color: #ecf1f1;
+}
+.APropos {
+  position: absolute;
+  top: 4%;
+  left: 88%;
+  border-radius: 12px;
+  padding: 10px 24px;
+  font-size: 16px;
+  background-color: #b8e3e5;
+  border: 2px solid #ecf1f1;
+  color: #ecf1f1;
+}
+body {
+  background-color: #eef7fa;
+}

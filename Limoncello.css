@@ -1,0 +1,151 @@
+body {
+  background-color: rgb(240, 248, 181);
+  padding-right: 600px;
+}
+img {
+  position: absolute;
+  top: 3%;
+  right: 3%;
+  width: 45%;
+}
+body {
+  text-align: left;
+  font-family: Snell Roundhand, cursive;
+  font-size: 150%;
+}
+.Retour {
+  position: absolute;
+  top: 4.5%;
+  left: 17%;
+  border-radius: 12px;
+  padding: 10px 24px;
+  font-size: 16px;
+  background-color: rgb(227, 241, 120);
+  border: 2px solid #ecf1f1;
+}
+.BlueLagoon {
+  background-color: rgb(181, 226, 248);
+  .Retour {
+    left: 20%;
+    background-color: rgb(150, 215, 248);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 35%;
+  }
+}
+.Daiquiri {
+  background-color: rgb(237, 245, 206);
+  .Retour {
+    left: 16%;
+    background-color: rgb(223, 244, 138);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 35%;
+  }
+}
+.Margarita {
+  background-color: rgb(243, 246, 216);
+  .Retour {
+    left: 17%;
+    background-color: rgb(238, 249, 137);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 35%;
+  }
+}
+.Mojito {
+  background-color: rgb(199, 247, 189);
+  .Retour {
+    left: 13%;
+    background-color: rgb(164, 244, 148);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 35%;
+  }
+}
+.Paloma {
+  background-color: rgb(255, 199, 179);
+  .Retour {
+    left: 15%;
+    background-color: rgb(249, 148, 112);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 47%;
+  }
+}
+.PassionTropical {
+  background-color: rgb(248, 243, 181);
+  .Retour {
+    left: 25%;
+    background-color: rgb(249, 241, 118);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 35%;
+  }
+}
+.PinaColada {
+  background-color: rgb(246, 248, 181);
+  .Retour {
+    left: 20%;
+    background-color: rgb(246, 251, 108);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 35%;
+  }
+}
+.SexOnTheBeach {
+  background-color: rgb(251, 208, 165);
+  .Retour {
+    left: 27%;
+    background-color: rgb(246, 169, 91);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 10%;
+    right: 3%;
+    width: 40%;
+  }
+}
+.Spritz {
+  background-color: rgb(251, 215, 165);
+  .Retour {
+    left: 13%;
+    background-color: rgb(250, 181, 86);
+    border: 2px solid #ecf1f1;
+  }
+  img {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    width: 43%;
+  }
+}
