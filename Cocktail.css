@@ -8,35 +8,35 @@
   color: white;
 }
 .BlueLagoon {
-  background-image: url("images/BlueLagoon.png");
+  background-image: url("BlueLagoon.png");
   background-size: cover;
   background-position: center;
   top: 12%;
   left: 3%;
 }
 .Daiquiri {
-  background-image: url("images/Daiquiri.png");
+  background-image: url("Daiquiri.png");
   background-size: cover;
   background-position: center;
   top: 12%;
   left: 22%;
 }
 .Limoncello {
-  background-image: url("images/Limoncello.png");
+  background-image: url("Limoncello.png");
   background-size: cover;
   background-position: center;
   top: 12%;
   left: 41%;
 }
 .Margarita {
-  background-image: url("images/Margarita.jpg");
+  background-image: url("Margarita.jpg");
   background-size: cover;
   background-position: center;
   top: 12%;
   left: 60%;
 }
 .Mojito {
-  background-image: url("images/Mojito.jpg");
+  background-image: url("Mojito.jpg");
   background-size: cover;
   background-position: center;
   top: 12%;
@@ -44,35 +44,35 @@
   color: black;
 }
 .Paloma {
-  background-image: url("images/Paloma.png");
+  background-image: url("Paloma.png");
   background-size: cover;
   background-position: center;
   top: 55%;
   left: 3%;
 }
 .PassionTropical {
-  background-image: url("images/PassionTropical.png");
+  background-image: url("PassionTropical.png");
   background-size: cover;
   background-position: center;
   top: 55%;
   left: 22%;
 }
 .PinaColada {
-  background-image: url("images/PinaColada.png");
+  background-image: url("PinaColada.png");
   background-size: cover;
   background-position: center;
   top: 55%;
   left: 41%;
 }
 .SexOnTheBeach {
-  background-image: url("images/SexOnTheBeach.png");
+  background-image: url("SexOnTheBeach.png");
   background-size: cover;
   background-position: center;
   top: 55%;
   left: 60%;
 }
 .Spritz {
-  background-image: url("images/Spritz.png");
+  background-image: url("Spritz.png");
   background-size: cover;
   background-position: center;
   top: 55%;
